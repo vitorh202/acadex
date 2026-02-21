@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎓 Acadex
 
-## Getting Started
+O **Acadex** é um Sistema de Gestão Escolar (ERP Acadêmico) desenvolvido para modernizar e simplificar o controle pedagógico das instituições de ensino.
 
-First, run the development server:
+A plataforma centraliza informações acadêmicas como notas, frequência, relatórios, cadastro de alunos, responsáveis, professores em um ambiente moderno, intuitivo e dinâmico.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Objetivo do Projeto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+O Acadex tem como propósito oferecer:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 📊 Controle completo da gestão acadêmica
+- 🧠 Organização estratégica de dados escolares
+- ⚡ Automação de processos pedagógicos
+- 🔐 Segurança e controle de acesso por perfil
+- 🎨 Interface moderna e intuitiva
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠 Tecnologias Utilizadas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **C#**
+- **ASP.NET**
+- **PostgreSQL**
+- **Next.js**
+- **Javascript**
+- **TypeScript**
+- **Tailwind CSS**
+- **Framer Motion**
+- **ESLint**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📁 Estrutura Atual do Projeto
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Site do projeto: Em desenvolvimento. 
+- Web Application: Em desenvolvimento. 
+- Instalador + Configurador Servidor: Em desenvolvimento. 
