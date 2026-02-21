@@ -73,35 +73,59 @@ const modulos = [
   },
   {
     title: "Gestão Acadêmica",
-    image: "/img/modulos/gestao.png",
+    image: "/img/modulos/gestaoicon.png",
     gallery: [
       {
         image: "/img/modulos/gestao-1.png",
-        caption: "Cadastro de turmas e disciplinas",
+        caption: "Calendário Acadêmico",
       },
       {
         image: "/img/modulos/gestao-2.png",
-        caption: "Controle de calendário letivo",
+        caption: "Agendamento de aulas",
+      },
+      {
+        image: "/img/modulos/gestao-3.png",
+        caption: "Cadastro de Salas e Espaços",
+      },
+      {
+        image: "/img/modulos/gestao-4.png",
+        caption: "Cadastro de Cursos",
+      },
+      {
+        image: "/img/modulos/gestao-5.png",
+        caption: "Cadastro de Matérias",
+      },
+      {
+        image: "/img/modulos/gestao-6.png",
+        caption: "Cadastro de Turmas",
       },
     ],
   },
   {
     title: "Financeiro",
-    image: "/img/modulos/financeiro.png",
+    image: "/img/modulos/Financeiroicon.png",
     gallery: [
       {
-        image: "/img/modulos/fin-1.png",
+        image: "/img/modulos/Emdesenvolvimento.png",
         caption: "Gestão de mensalidades",
       },
       {
-        image: "/img/modulos/fin-2.png",
+        image: "/img/modulos/Emdesenvolvimento.png",
         caption: "Controle de inadimplência",
+      },
+      {
+        image: "/img/modulos/Emdesenvolvimento.png",
+        caption: "Emissão de contratos",
+      },
+      {
+        image: "/img/modulos/Emdesenvolvimento.png",
+        caption: "Emissão de notas de serviço",
       },
     ],
   },
   {
     title: "Relatórios",
-    image: "/img/modulos/relatorios.png",
+    image: "/img/modulos/Relatorioicon.png",
     gallery: [
       {
         image: "/img/modulos/rel-1.png",
@@ -109,13 +133,25 @@ const modulos = [
       },
       {
         image: "/img/modulos/rel-2.png",
-        caption: "Exportação em PDF",
+        caption: "Exportação em PDF e impressão",
+      },
+       {
+        image: "/img/modulos/rel-3.png",
+        caption: "Exportação em Excel",
+      },
+       {
+        image: "/img/modulos/rel-4.png",
+        caption: "Relatório de Boletim por turma",
+      },
+       {
+        image: "/img/modulos/rel-5.png",
+        caption: "Relatório de Frequência por turma",
       },
     ],
   },
   {
     title: "Configurações",
-    image: "/img/modulos/config.png",
+    image: "/img/modulos/Configicon.png",
     gallery: [
       {
         image: "/img/modulos/config-1.png",
