@@ -155,11 +155,27 @@ const modulos = [
     gallery: [
       {
         image: "/img/modulos/config-1.png",
-        caption: "Gestão de usuários e permissões",
+        caption: "Gestão de usuários",
       },
       {
         image: "/img/modulos/config-2.png",
-        caption: "Personalização da instituição",
+        caption: "Configuração de funções e permissões de acesso",
+      },
+      {
+        image: "/img/modulos/config-3.png",
+        caption: "Cadastro de dados da escola",
+      },
+      {
+        image: "/img/modulos/config-4.png",
+        caption: "Cadastro de dados fiscais",
+      },
+      {
+        image: "/img/modulos/config-5.png",
+        caption: "Cadastro de dados do contrato",
+      },
+      {
+        image: "/img/modulos/config-6.png",
+        caption: "Cadastro certificado digital",
       },
     ],
   },

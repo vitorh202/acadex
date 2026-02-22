@@ -2,6 +2,7 @@ import Image from "next/image";
 import Sobre from "./components/sobre";
 import Funcionalidades from "./components/Funcionalidades";
 import Modulos from "./components/Modulos";
+import TesteSistema from "./components/TesteSistema";
 
 
 export default function Home() {
@@ -10,7 +11,7 @@ export default function Home() {
       <Sobre />
       <Funcionalidades />
       <Modulos />
-      <section id="contato" className="min-h-screen">...</section>
+      <TesteSistema />
     </main>
   );
 }

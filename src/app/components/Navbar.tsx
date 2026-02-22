@@ -9,7 +9,7 @@ const links = [
   { name: "Sobre", href: "#sobre" },
   { name: "Funcionalidades", href: "#funcionalidades" },
   { name: "Módulos", href: "#modulos" },
-  { name: "Teste o sistema", href: "#contato" },
+  { name: "Teste o sistema", href: "#teste" },
 ]
 
 export default function Navbar() {
